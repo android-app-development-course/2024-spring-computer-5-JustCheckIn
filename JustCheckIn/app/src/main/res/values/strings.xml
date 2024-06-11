@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">签了个到</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_home">首页</string>
+    <string name="title_account">用户</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_dashboard">仪表板</string>
+    <string name="title_notifications">消息</string>
+    <string name="title_leave">请假</string>.
+    <string name="title_absence_appeal">缺勤申诉</string>
+    <string name="title_exit">退出</string>
+</resources>
